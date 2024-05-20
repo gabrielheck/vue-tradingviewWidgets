@@ -18,25 +18,26 @@ yarn add vue-tradingview-widgets
 
 ## Widgets
 
--   ForexHeatMap
--   ForexCrossRates
--   CryptoMarket
 -   Chart
--   TechnicalAnalysis
--   MarketOverview
--   MarketData
--   StockMarket
+-   CompanyProfile
+-   CryptoMarket
 -   EconomicCalendar
+-   ForexCrossRates
+-   ForexHeatMap
+-   FundamentalData
+-   MarketData
+-   MarketOverview
+-   MiniChart
+-   Screener
+-   SingleTicker
+-   Snaps
+-   StockHeatMap
+-   StockMarket
+-   SymbolInfo
+-   SymbolOverview
+-   TechnicalAnalysis
 -   Ticker
 -   TickerTape
--   SingleTicker
--   MiniChart
--   SymbolOverview
--   SymbolInfo
--   Screener
--   FundamentalData
--   CompanyProfile
--   Snaps
 
 ## Vue Example
 

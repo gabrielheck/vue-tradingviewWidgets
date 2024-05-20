@@ -13,6 +13,7 @@ import Screener from './components/Screener.vue'
 import SingleTicker from './components/SingleTicker.vue'
 import Snaps from './components/Snaps.vue'
 import StockMarket from './components/StockMarket.vue'
+import StockHeatMap from './components/StockHeatMap.vue'
 import SymbolInfo from './components/SymbolInfo.vue'
 import SymbolOverview from './components/SymbolOverview.vue'
 import TechnicalAnalysis from './components/TechnicalAnalysis.vue'
@@ -34,6 +35,7 @@ import TickerTape from './components/TickerTape.vue'
     <section><Screener /></section>
     <section><SingleTicker /></section>
     <section><StockMarket /></section>
+    <section><StockHeatMap/></section>
     <section><Snaps /></section>
     <section><SymbolInfo /></section>
     <section><SymbolOverview /></section>
